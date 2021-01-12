@@ -1,0 +1,137 @@
+#header-container{
+    height: 85px;
+    width: 86%;
+    background-color: black;
+    margin-left:7%; 
+    margin-right:7%;
+    position: fixed;
+    z-index: 1;
+    /* padding-top: 50px;   */
+}
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 118px;  
+}
+
+li{
+    display: inline; 
+    margin-left: 50px;
+}
+
+.mainnavItems{
+    color: grey;
+    font-size: 18px;
+    font-weight: normal;
+    padding: 30px 15px;
+    cursor: pointer;
+}
+
+.mainnavItems:hover{
+    color:white
+}
+.spacing{ 
+    text-decoration: none;  
+    color: grey;
+    font-size: 18px;
+    font-weight: normal;
+    padding: 30px 1px; 
+   
+    height: 32px;  
+    display: inline-block;   
+    
+   
+}
+
+
+li:hover{
+    color: white;
+    
+}
+
+.supercell{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;   
+    text-align: center;
+
+    padding: 30px 12px;     
+   
+   
+    cursor: pointer;
+}
+
+
+.supercell span{
+    font-size: 16px;
+    font-weight: bolder;
+    border-radius: 6px;
+    color: black;
+    background-color: white;
+    padding: 0px 4px;
+    margin-left: 2px;
+   
+}
+
+#gameSlider{
+    position: absolute;   
+    top:80px;   
+    background-color: black;
+    opacity: 0.7;
+    overflow: hidden;
+    width: 86%;
+    height:0;
+    transition: .2s ease-in ;
+    margin-left: 7%;
+    z-index: 2;
+}
+
+#careerSlider{
+    position: absolute;   
+    top:80px;   
+    background-color: black;
+    opacity: 0.7;
+    overflow: hidden;
+    width: 86%;
+    height:0;
+    transition: .2s ease-in;
+    margin-left: 7%;
+    z-index: 2;
+}
+
+#dotSlider{
+    position: absolute;   
+    top:80px;  
+    background-color: black;
+    opacity: 0.7;
+    overflow: hidden;
+    width: 86%;
+    height:0;
+    transition: .01s;
+    margin-left: 7%;
+    z-index: 2;
+}
+
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+
+
+
+  
+
+
