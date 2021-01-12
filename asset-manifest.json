@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d7f043f.chunk.css",
+    "main.js": "/static/js/main.3a78491c.chunk.js",
+    "main.js.map": "/static/js/main.3a78491c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.331e0276.js",
+    "runtime-main.js.map": "/static/js/runtime-main.331e0276.js.map",
+    "static/css/2.1f208231.chunk.css": "/static/css/2.1f208231.chunk.css",
+    "static/js/2.4ece72ae.chunk.js": "/static/js/2.4ece72ae.chunk.js",
+    "static/js/2.4ece72ae.chunk.js.map": "/static/js/2.4ece72ae.chunk.js.map",
+    "static/js/3.0a641373.chunk.js": "/static/js/3.0a641373.chunk.js",
+    "static/js/3.0a641373.chunk.js.map": "/static/js/3.0a641373.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.5d7f043f.chunk.css.map": "/static/css/main.5d7f043f.chunk.css.map",
+    "static/js/2.4ece72ae.chunk.js.LICENSE.txt": "/static/js/2.4ece72ae.chunk.js.LICENSE.txt",
+    "static/media/boomBoom.JPG": "/static/media/boomBoom.e9445824.JPG",
+    "static/media/bottom_image.JPG": "/static/media/bottom_image.25a83215.JPG",
+    "static/media/brawlStars.JPG": "/static/media/brawlStars.1402ebf8.JPG",
+    "static/media/careers.JPG": "/static/media/careers.c71b7089.JPG",
+    "static/media/centre_image.JPG": "/static/media/centre_image.ff855d9e.JPG",
+    "static/media/clashOfClans.JPG": "/static/media/clashOfClans.aa9f9e8d.JPG",
+    "static/media/clashRoyale.JPG": "/static/media/clashRoyale.e76a21e2.JPG",
+    "static/media/footer.JPG": "/static/media/footer.266fb2bc.JPG",
+    "static/media/games.JPG": "/static/media/games.c5b61eb6.JPG",
+    "static/media/games_top.JPG": "/static/media/games_top.37280977.JPG",
+    "static/media/hayDay.jpg": "/static/media/hayDay.123c36fb.jpg",
+    "static/media/hayDaySide.jpg": "/static/media/hayDaySide.875462ff.jpg",
+    "static/media/hayDay_game.jpg": "/static/media/hayDay_game.510e7461.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/middle_image.JPG": "/static/media/middle_image.1a1f5df3.JPG",
+    "static/media/top_image.JPG": "/static/media/top_image.3dede5e3.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.331e0276.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.4ece72ae.chunk.js",
+    "static/css/main.5d7f043f.chunk.css",
+    "static/js/main.3a78491c.chunk.js"
+  ]
+}
